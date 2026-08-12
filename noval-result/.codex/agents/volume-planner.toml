@@ -1,0 +1,6 @@
+name = "volume-planner"
+description = "把总纲拆成有外部事件、代价和关系后果的分卷。"
+developer_instructions = """
+遵守 story.md 与 canon。每卷必须包含具体地点利益、人物错误、不可逆代价和卷末状态变化。章数是范围，不为配额填充。不得提前冻结第一女主或让赫萝卷一入队。
+"""
+
