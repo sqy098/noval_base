@@ -1,12 +1,12 @@
 # 项目状态
 
 - project: 《昨日之后》
-- phase: framework-rebuilt
+- phase: volume-1-drafting
 - current_volume: 1
-- current_chapter: 2
+- current_chapter: 4
 - canon_version: 2026-08-12-result-1
-- prose_status: ch1-ch2 rewritten-baseline
-- next_action: continuity review, then plan ch3
+- prose_status: ch1-ch4 continuity-passed
+- next_action: plan ch5 from white-dyke outer district at dawn; preserve water-damaged map, worsening injuries, empty stomach and no advance knowledge of the old manor's fate
 
 ## 已完成
 
@@ -14,16 +14,24 @@
 - 九卷 390—430 章有效长篇架构
 - 四名核心角色重设与第一女主候选机制
 - 卷一 42 章详纲
-- 前两章章纲、提示词和重写正文
+- 第一至四章执行卡、提示词、正文与连续性验收
 - Novel Agent 8 代理控制层
+
+## 第四章结束状态
+
+- 解冻次日将明未明；阿尔斯、安妮丝与 C.C. 已从白堤泄水渠维护梯脱险，沿白堤区西北维护道抵达旧领地外缘，前方出现陌生仓房与灯火，尚未进入旧庄园街区。
+- 阿尔斯左踝肿伤加重，右掌再次受力出血，肩侧压伤布被渠水浸透并污染；膝伤、左腿失衡和左手脱力风险继续存在。仍空腹，无饮水与长途补给，旧钱袋与旧币未使用。
+- 伊沃手抄地图严重水损：灰榆坡、旧旁路和数条旧领地小路已晕毁，只剩较粗的新干线、山口方向及少量边角标注可辨。
+- 安妮丝的工具袋浸水；绞轮和小工具仍在，前章损失的一卷勘测索、两枚锚钉及损坏皮条均未恢复。
+- 最低行动规则受到第一次检验：阿尔斯公开了已知放水危险并允许二人自选，却隐瞒伤势恶化、拒绝协商路线；三人仍无领队、信任或正式同行协议。
+- “灰榆坡”已被新制度称作“白堤区”；收费所夜班主管洛恩按货运安全规则拒绝无灯牌步行者，不构成反派或身份压迫。
 
 ## 未完成
 
 - 第一女主冻结（最迟卷三）
 - 爱夏晚年婚恋史决定（卷五前）
-- 卷一第 3 章起执行卡与正文
+- 卷一第 5 章起执行卡与正文
 
 ## 禁止读取
 
 除非作者明确要求比较旧稿，后续写作代理不得读取 `../noval/` 或把其中内容复制进本项目。
-
