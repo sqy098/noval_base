@@ -1,12 +1,12 @@
 # 项目状态
 
 - project: 《昨日之后》
-- phase: framework-rebuilt
+- phase: volume-1-drafting
 - current_volume: 1
-- current_chapter: 2
+- current_chapter: 4
 - canon_version: 2026-08-12-result-1
-- prose_status: ch1-ch2 rewritten-baseline
-- next_action: continuity review, then plan ch3
+- prose_status: ch1-ch4 anti-ai-edited and continuity-passed
+- next_action: plan ch5 from the old-wall-lane entrance at dawn without revealing the old manor's fate in advance
 
 ## 已完成
 
@@ -14,16 +14,26 @@
 - 九卷 390—430 章有效长篇架构
 - 四名核心角色重设与第一女主候选机制
 - 卷一 42 章详纲
-- 前两章章纲、提示词和重写正文
+- 第一至四章旧结构问题复盘
+- 第一至四章新章纲、执行卡、提示词与正文重写
+- 新版第一至四章反 AI 编辑与连续性验收
 - Novel Agent 8 代理控制层
+
+## 第四章结束状态
+
+- 解冻次日黎明、晨钟第一声时；阿尔斯、安妮丝与 C.C. 已搭夜班货车抵达旧庄园外仓区的旧墙巷入口，认得山坡走势却认不得新道路，尚未进入居住道路。
+- 阿尔斯左手、左腿仍有间歇性麻木与脱力，肩侧旧伤重新渗血；穿着借来的破旧工衣，带着小水囊、半块硬麦饼、完好粗略地图和未使用的旧币，已主动吃下另外半块麦饼但没有吃饱。
+- 安妮丝未经同意记录姓名和身体资料，又擅自解除货车保险环造成货损；铜章、赔偿担保与通行路线已被洛恩登记。工具袋完整，仅一支拆解针弯曲。
+- C.C. 明确优先替自己争取热食、炉边和有顶座位，并继续试探核心与追问七号仓地下旧墙；她不是被动同行者或疗愈者。
+- 三人无领队、信任、正式同行协议或感情确认；没有建立所谓“最低行动规则”。
+- 外壳存在跨年代旧痕，但来源、组数、最早日期与格雷拉特家工具规范均未确认；“家人当年寻找过阿尔斯”的硬证据保留至第 17—18 章。
 
 ## 未完成
 
 - 第一女主冻结（最迟卷三）
 - 爱夏晚年婚恋史决定（卷五前）
-- 卷一第 3 章起执行卡与正文
+- 卷一第 5 章起执行卡与正文
 
 ## 禁止读取
 
 除非作者明确要求比较旧稿，后续写作代理不得读取 `../noval/` 或把其中内容复制进本项目。
-
