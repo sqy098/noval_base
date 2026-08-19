@@ -4,8 +4,8 @@
 - phase: volume-1-drafting
 - current_volume: 1
 - current_chapter: 4
-- canon_version: 2026-08-18-century-scale-calibrated
-- prose_status: ch1-ch4 identity-explanation-simplified; ch1-ch2 calendar-reveal and century-scale calibrated
+- canon_version: 2026-08-18-longevity-reveal-delayed
+- prose_status: ch1-ch4 identity-explanation-simplified; ch1-ch2 calendar-reveal and century-scale calibrated without named long-lived survivors
 - next_action: plan ch5 from Sharia freight South Gate through the lodging district toward the university-side residential streets without revealing Rudeus's death year in advance
 
 ## 已完成
@@ -20,7 +20,8 @@
 - 第二轮前四章已完成对话、地理、物品状态、跨国权限、反 AI 与连续性终检
 - 第一至四章完成安妮丝身份简化校订：只解释阿斯拉旁支出身、简称习惯与研究员自我认同，不把跨国权限链扩写成主要情节
 - 第一章末与第二章开头完成历法揭示校订：年份从当夜交接单自然露出，不再由突然问答抛出
-- 一百三十年尺度完成全局校订：它对人族足以跨数代，对部分长寿种族并非远古；阿尔斯保留长寿亲友尚在的希望，恐惧集中于具体人族亲友
+- 一百三十年尺度完成全局校订：它对人族足以跨数代，对部分长寿种族并非远古；阿尔斯不据此判定所有旧人死亡，恐惧集中于具体人族亲友
+- 长寿旧人揭示延后：卷一前段只保留通用种族寿命常识，不点名任何可能幸存者
 - Novel Agent 8 代理控制层
 
 ## 第四章结束状态
@@ -32,7 +33,7 @@
 - 车夫已把鲁迪乌斯宅邸当成参观地点，南门方向牌指向“鲁迪乌斯宅邸管理处”；尚未出现“故居/旧址”，未确认鲁迪乌斯死亡年份。
 - 三人无领队、信任、正式同行协议或感情确认；没有建立所谓“最低行动规则”。
 - 外壳存在跨年代旧痕，但来源、组数、最早日期与格雷拉特家工具规范均未确认；“家人当年寻找过阿尔斯”的硬证据保留至第 17—18 章。
-- 阿尔斯从当夜交接单看到 595 年并确认甲龙历未改制；他想到洛琪希、希露菲与奥尔斯帝德等长寿亲友仍可能在世，不把一百三十年视为所有旧人的统一死期。
+- 阿尔斯从当夜交接单看到 595 年并确认甲龙历未改制；他知道一百三十年不是所有种族的统一死期，但尚未在正文点名盘算任何长寿家人与旧人。
 
 ## 未完成
 
