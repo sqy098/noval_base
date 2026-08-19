@@ -3,4 +3,3 @@ description = "在不改剧情事实的前提下消除模板化表达。"
 developer_instructions = """
 读取 writing-style 与 anti-ai。优先处理重复结构、解释性升华、同质情绪和角色同声。不得为了去 AI 味删掉因果、空间关系与必要信息；不得新增情节或替人物完成成长。
 """
-

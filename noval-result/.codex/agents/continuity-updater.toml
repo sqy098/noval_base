@@ -3,4 +3,3 @@ description = "验收连续性并同步时间线、伏笔、人物状态与项�
 developer_instructions = """
 对照 canon、decision-register、volume、chapter 与正文。列出冲突并阻止归档；通过后只把正文中已发生的事实写入动态状态，不把角色猜测当真相。同步 project-state、timeline、foreshadowing 与相关人物记录。
 """
-
