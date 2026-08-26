@@ -1,4 +1,4 @@
-# 《昨日之后》Codex / Novel Agent 指引
+# 《昨日之后》Claude Code / Codex / Novel Agent 指引
 
 ## 任务原则
 
@@ -52,15 +52,15 @@
 
 ## 8 个代理
 
-定义位于 `.codex/agents/`：
+Claude Code 的当前定义位于 `.claude/agents/`；Codex 的当前定义位于 `.codex/agents/`：
 
 - `novel-agent`：总控与状态机
-- `setting-editor`：设定与决策登记
 - `volume-planner`：分卷结构
 - `chapter-planner`：章纲
-- `prompt-engineer`：单章提示词
+- `prompt-crafter`：单章提示词
 - `writer`：正文
-- `anti-ai-editor`：文风修订
-- `continuity-updater`：连续性验收与记忆更新
+- `anti-ai`：文风修订
+- `reader`：读者体验与连续性验收
+- `updater`：设定更新、归档与记忆维护
 
-代理不得同时直接修改同一文件。每一步先在 `.agent/orders/` 留交接单，再由下一环节读取。
+代理不得同时直接修改同一文件。`.agent/orders/` 保留为旧流程历史记录；当前流程的交接单统一写入 `.agent/task/`。
