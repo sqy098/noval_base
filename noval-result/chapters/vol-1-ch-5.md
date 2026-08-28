@@ -1,7 +1,9 @@
 # 1-5《参观入口》执行卡
 
-**status:** writing
+**status:** revised
 **created_at:** 2026-08-28
+**revised_at:** 2026-08-28
+**revision_note:** 合并原5+6+7章，删除冗余描写，增强情绪反应
 
 ## 本章任务
 
