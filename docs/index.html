@@ -1,0 +1,244 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>昨日之后 - 无职转生后日谈</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: "Noto Serif SC", "Source Han Serif CN", "Microsoft YaHei", serif;
+            line-height: 1.8;
+            color: #333;
+            background: linear-gradient(135deg, #f5f7fa 0%, #c3cfe2 100%);
+            min-height: 100vh;
+        }
+
+        .container {
+            max-width: 900px;
+            margin: 0 auto;
+            padding: 20px;
+        }
+
+        header {
+            text-align: center;
+            padding: 60px 20px 40px;
+            background: white;
+            border-radius: 10px;
+            box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+            margin-bottom: 30px;
+        }
+
+        h1 {
+            font-size: 2.5em;
+            color: #2c3e50;
+            margin-bottom: 10px;
+            font-weight: 700;
+        }
+
+        .subtitle {
+            font-size: 1.1em;
+            color: #7f8c8d;
+            margin-bottom: 20px;
+        }
+
+        .description {
+            font-size: 0.95em;
+            color: #95a5a6;
+            max-width: 600px;
+            margin: 0 auto;
+            line-height: 1.6;
+        }
+
+        nav {
+            background: white;
+            border-radius: 10px;
+            box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+            padding: 20px;
+            margin-bottom: 30px;
+        }
+
+        nav h2 {
+            font-size: 1.3em;
+            color: #34495e;
+            margin-bottom: 15px;
+            border-bottom: 2px solid #3498db;
+            padding-bottom: 10px;
+        }
+
+        .chapter-list {
+            list-style: none;
+        }
+
+        .chapter-list li {
+            margin-bottom: 10px;
+        }
+
+        .chapter-list a {
+            display: block;
+            padding: 12px 20px;
+            background: #f8f9fa;
+            color: #2c3e50;
+            text-decoration: none;
+            border-radius: 5px;
+            transition: all 0.3s ease;
+            border-left: 4px solid #3498db;
+        }
+
+        .chapter-list a:hover {
+            background: #3498db;
+            color: white;
+            transform: translateX(5px);
+        }
+
+        .content {
+            background: white;
+            border-radius: 10px;
+            box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+            padding: 40px;
+            margin-bottom: 30px;
+        }
+
+        .chapter-title {
+            font-size: 2em;
+            color: #2c3e50;
+            margin-bottom: 30px;
+            text-align: center;
+            padding-bottom: 20px;
+            border-bottom: 2px solid #ecf0f1;
+        }
+
+        .chapter-content {
+            font-size: 1.1em;
+            line-height: 2;
+            text-align: justify;
+            color: #2c3e50;
+        }
+
+        .chapter-content p {
+            margin-bottom: 1.5em;
+            text-indent: 2em;
+        }
+
+        .chapter-content h3 {
+            text-align: center;
+            margin: 2em 0 1em;
+            color: #7f8c8d;
+            font-size: 1em;
+        }
+
+        footer {
+            text-align: center;
+            padding: 30px;
+            color: #7f8c8d;
+            font-size: 0.9em;
+        }
+
+        .back-to-top {
+            position: fixed;
+            bottom: 30px;
+            right: 30px;
+            background: #3498db;
+            color: white;
+            width: 50px;
+            height: 50px;
+            border-radius: 50%;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            text-decoration: none;
+            box-shadow: 0 4px 6px rgba(0,0,0,0.2);
+            transition: all 0.3s ease;
+            opacity: 0;
+            pointer-events: none;
+        }
+
+        .back-to-top.visible {
+            opacity: 1;
+            pointer-events: auto;
+        }
+
+        .back-to-top:hover {
+            background: #2980b9;
+            transform: translateY(-3px);
+        }
+
+        @media (max-width: 768px) {
+            .container {
+                padding: 10px;
+            }
+
+            header {
+                padding: 40px 15px 30px;
+            }
+
+            h1 {
+                font-size: 1.8em;
+            }
+
+            .content {
+                padding: 20px;
+            }
+
+            .chapter-content {
+                font-size: 1em;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>昨日之后</h1>
+            <p class="subtitle">无职转生后日谈 × 六面世界综漫</p>
+            <p class="description">
+                甲龙历465年，阿尔斯·格雷拉特遭遇遗迹事故被静滞。<br>
+                130年后的595年，他在陌生的魔导工业时代苏醒。<br>
+                父亲的宅邸成为历史遗产，爱夏的人生已经走完。<br>
+                一个失去时间的人，在债务、破产、铁路与投机的新世界中，<br>
+                与C.C.、安妮丝一同寻找「家」的意义。
+            </p>
+        </header>
+
+        <nav>
+            <h2>第一卷 章节目录</h2>
+            <ul class="chapter-list">
+                <li><a href="chapter-1.html">第一章 装置上的名字</a></li>
+                <li><a href="chapter-2.html">第二章 五百九十五年</a></li>
+                <li><a href="chapter-3.html">第三章 去夏利亚的最后一班车</a></li>
+                <li><a href="chapter-4.html">第四章 去夏利亚的夜班车</a></li>
+            </ul>
+        </nav>
+
+        <footer>
+            <p>© 2026 昨日之后 | 基于《无职转生》世界观的二次创作</p>
+            <p><a href="https://github.com/sqy098/noval_base" style="color: #3498db; text-decoration: none;">GitHub 仓库</a></p>
+        </footer>
+    </div>
+
+    <a href="#" class="back-to-top" id="backToTop">↑</a>
+
+    <script>
+        // Back to top button
+        const backToTop = document.getElementById('backToTop');
+
+        window.addEventListener('scroll', () => {
+            if (window.pageYOffset > 300) {
+                backToTop.classList.add('visible');
+            } else {
+                backToTop.classList.remove('visible');
+            }
+        });
+
+        backToTop.addEventListener('click', (e) => {
+            e.preventDefault();
+            window.scrollTo({ top: 0, behavior: 'smooth' });
+        });
+    </script>
+</body>
+</html>
