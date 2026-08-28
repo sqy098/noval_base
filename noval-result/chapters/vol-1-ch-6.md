@@ -1,9 +1,10 @@
 # 1-6《归还簿》执行卡
 
-**status:** revised
+**status:** finalized
 **created_at:** 2026-08-28
 **revised_at:** 2026-08-28
-**revision_note:** 合并原8+9章，精简等待期为200字，增强C.C.动机暗示
+**finalized_at:** 2026-08-28
+**revision_note:** 合并原8+9章，精简等待期，增强C.C.动机暗示，增加三天情感锚点
 
 ## 本章任务
 
