@@ -1,7 +1,8 @@
 # 1-8《东郊旧矿》执行卡
 
-**status:** writing
+**status:** finalized
 **created_at:** 2026-08-28
+**finalized_at:** 2026-08-28
 
 ## 本章任务
 
